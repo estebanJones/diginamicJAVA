@@ -26,7 +26,7 @@ public class ExerciceBoucleBase {
 
 	public static void elementPairs() {
 		for(int i = 2; i <= 100; i+=2) {
-			System.out.println("Les nombres pairs de 0 à 100 sont " + i);
+			System.out.println("Les nombres pairs de 2 à 100 sont " + i);
 		}
 	}
 
